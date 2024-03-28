@@ -1,0 +1,79 @@
+.navbar{
+    
+  margin: 20px;
+  text-decoration: none;
+  font-size: large;
+ }
+ .navbar:hover{
+     text-decoration: underline;
+ }
+ .Heading{
+     margin: 30px;
+     padding: 20px;
+     border: 1px;
+ }
+ tr:hover {background-color: #D6EEEE;}
+ caption{
+ font-size: x-large;
+ margin-bottom: 10px;
+ }
+ .login{
+     margin-left: 350px;
+     text-decoration: none;
+     font-size: large;
+ }
+ .login:hover,.signup:hover{
+     text-decoration: underline;
+ }
+ .signup{
+     margin-left: 80px;
+     text-decoration: none;
+     font-size: large;
+ }
+ 
+  table, td, th{
+     margin: 30px;
+     padding: 25px;
+     border: 1px solid ;
+     border-collapse: collapse;
+     
+ }
+ table{
+     margin-left: 100px;
+ }
+ .slider {
+     background-color: #ffffff;
+     overflow: auto;
+     white-space: nowrap;
+     padding: 10px;
+   }
+   th{
+     background-color: #d3d1d1;
+   }
+   
+   .slider img {
+ padding: 2px;
+     width: 500px;
+     height: 500px;
+   }
+   h2{
+     text-align: center;
+   }
+  
+   .social-icons{
+     display: flex;
+    
+   }
+   .fab {
+ margin: 10px;
+   }
+ footer{
+     margin-left: 450px;
+ }
+ .footer{
+ padding: 10px;
+ text-decoration: none;
+ }
+ .footer:hover{
+     text-decoration: underline;
+ }
