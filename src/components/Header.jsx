@@ -23,7 +23,7 @@ function Header() {
           ) : (
             <>
               <a href="#" className="login">Login</a>
-              <a href="#" className="signup">Signup</a>
+              
             </>
           )}
         </nav>
