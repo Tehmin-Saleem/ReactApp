@@ -13,7 +13,7 @@ const MobilesData = () => {
   const dispatch = useDispatch();
 
   const handleLogin = () => {
-    dispatch(loginUser()); // Dispatch loginUser action to set loggedIn to true
+    dispatch(loginUser()); 
   };
 
   const handleFetchData = async () => {
