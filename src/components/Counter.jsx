@@ -15,7 +15,7 @@ const handleClick = () => {
 
   return (
     <>
-      <button onClick={handleClick}>Count </button>
+      <button onClick={handleClick}>Count {count}</button>
     </>
   );
 }
